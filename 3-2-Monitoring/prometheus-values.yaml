@@ -723,7 +723,7 @@ server:
     ## List of IP addresses at which the Prometheus server service is available
     ## Ref: https://kubernetes.io/docs/user-guide/services/#external-ips
     ##
-    externalIPs: []
+    externalIPs: [35.180.255.45]
 
     loadBalancerIP: ""
     loadBalancerSourceRanges: []
